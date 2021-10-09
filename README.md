@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArickCodeGuy, but you can call me Archi
+- 👀 I’m interested in web development and building cool websites
+- 🌱 I’m currently learning vue.js (3). I'm also planning on learning tree.js.
+- 📫 Telegram: @archiwastaken, mail: arickmail1997@gmail.com
