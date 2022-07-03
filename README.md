@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArickCodeGuy, but you can call me Archi
 - 👀 I’m interested in web development and building cool websites
-- 🌱 I’m currently learning vue.js (3). I'm also planning on learning tree.js.
+- 🌱 I’m currently working as a middle front end engineer (vue 3). I also try to build my personal blog where I could share my experience [Link](https://github.com/ArickCodeGuy/simple_projects)
 - 📫 Telegram: @archiwastaken, mail: arickmail1997@gmail.com
