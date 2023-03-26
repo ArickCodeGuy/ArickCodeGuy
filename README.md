@@ -1,4 +1,3 @@
 - 👋 Hi, I'm @ArickCodeGuy, but you can call me Archi
-- 👀 I'm interested in web development and building cool websites
-- 🌱 I'm currently working as a middle front end engineer (vue 3). I also try to build my personal [blog](https://github.com/ArickCodeGuy/simple_projects) where I could share my experience (feedback would be really apreciated)
+- 🌱 I'm a frontend dev
 - 📫 Telegram: @archiwastaken, mail: arickmail1997@gmail.com
