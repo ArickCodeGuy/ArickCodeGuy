@@ -1,3 +1,3 @@
 - 👋 Hi, I'm @ArickCodeGuy, but you can call me Archi
 - 🌱 I'm a frontend dev
-- 📫 Telegram: @archiwastaken, mail: arickmail1997@gmail.com
+- 📫 Telegram: [tg](https://telegram.me/archiwastaken), mail: arickmail1997@gmail.com
