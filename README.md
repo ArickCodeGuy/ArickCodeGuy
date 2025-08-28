@@ -1,3 +1,5 @@
-- 👋 Hi, I'm @ArickCodeGuy, but you can call me Archi
-- 🌱 I'm a frontend dev
-- 📫 [Telegram](https://telegram.me/archiwastaken), [Email](mailto:arickmail1997@gmail.com)
+- 👋 Hi, I'm @ArickCodeGuy, but you can call me Cody
+- I'm a passionate frontend developer
+- My [achievements](https://github.com/ArickCodeGuy/debt)
+- [Telegram](https://telegram.me/archiwastaken)
+- [Email](mailto:arickmail1997@gmail.com)
